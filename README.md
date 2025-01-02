@@ -2,9 +2,15 @@
 
 Eka Sugiarto
 
+
 Software version
 - CoppeliaSim Edu Version 4.8.0 (rev. 0) 64-bit
 - MATLAB R2024b 64-bit
+
+
+Simulation trial
+Trial 1: https://youtu.be/UQ01OEAgl-c
+
 
 References
 1. Simuation files from Mr. Basith
