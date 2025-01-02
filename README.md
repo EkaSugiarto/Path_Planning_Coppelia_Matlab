@@ -1,6 +1,6 @@
 # Path_Planning_Coppelia_Matlab
 
-Eka Sugiarto
+Eka Sugiarto (201012320030)
 
 
 Software version
@@ -8,8 +8,11 @@ Software version
 - MATLAB R2024b 64-bit
 
 
+
 Simulation trial
+
 Trial 1: https://youtu.be/UQ01OEAgl-c
+
 
 
 References
