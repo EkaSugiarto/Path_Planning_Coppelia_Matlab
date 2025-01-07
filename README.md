@@ -8,13 +8,6 @@ Software version
 - MATLAB R2024b 64-bit
 
 
-
-Simulation trial
-
-Trial 1: https://www.youtube.com/watch?v=wMmPcvUX8Q0&ab_channel=JadiTeknik
-
-
-
 References
 1. Simuation files from Mr. Basith
 2. How to Connect MATLAB to CoppeliaSIM https://www.youtube.com/watch?v=pObt5SBinVk&ab_channel=MATLABForAll
