@@ -11,3 +11,7 @@ References
 2. How to Connect MATLAB to CoppeliaSIM https://www.youtube.com/watch?v=pObt5SBinVk&ab_channel=MATLABForAll
 3. Human model in CoppeliaSim https://www.youtube.com/watch?v=-uR0yehlvuA&ab_channel=CoppeliaRobotics
 4. Another same project as mine https://github.com/dityag/Mobile-Robot-Path-Planning-MATLAB-CoppeliaSim.git
+
+
+Simulation/demonstration video
+https://youtu.be/ghKImuJBm9E
